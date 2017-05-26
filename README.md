@@ -1,0 +1,2 @@
+# HKEXNewsCrawler
+使用selenium解析HKEXNews的动态页面加载，把动态页面转换为静态页面。
